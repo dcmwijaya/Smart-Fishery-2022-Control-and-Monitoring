@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+PubSubClient
+ArduinoJson
+Grove - RTC DS1307
+Ai Esp32 Rotary Encoder
+ESP32Servo
+LiquidCrystal I2C
+StreamUtils
+WiFi

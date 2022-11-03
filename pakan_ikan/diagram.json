@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "author": "Teguh Pratama Nugraha",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 0, "left": 0, "attrs": {} },
+    { "type": "wokwi-ds1307", "id": "rtc1", "top": 9.3, "left": 186.92, "attrs": {} },
+    { "type": "wokwi-ky-040", "id": "encoder1", "top": 37.96, "left": -154.41, "attrs": {} },
+    { "type": "wokwi-servo", "id": "servo1", "top": 115.96, "left": 190.25, "attrs": {} },
+    { "type": "wokwi-hc-sr04", "id": "ultrasonic1", "top": -144.83, "left": 55.77, "attrs": {} },
+    {
+      "type": "wokwi-lcd2004",
+      "id": "lcd1",
+      "top": -9.9,
+      "left": 387.4,
+      "attrs": { "pins": "i2c" }
+    }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "rtc1:SCL", "esp:D22", "green", [ "h0" ] ],
+    [ "rtc1:SDA", "esp:D21", "green", [ "h-51.14", "v25.24" ] ],
+    [ "rtc1:GND", "esp:GND.1", "black", [ "h-67.81", "v123.41" ] ],
+    [ "rtc1:5V", "esp:VIN", "red", [ "h-78.48", "v206.74", "h-137.33", "v-47.33" ] ],
+    [ "encoder1:SW", "esp:D33", "#8f4814", [ "h22.08", "v16.74" ] ],
+    [ "encoder1:GND", "esp:GND.2", "black", [ "h12.64", "v15.74" ] ],
+    [ "encoder1:DT", "esp:D26", "green", [ "h27.06", "v23.07" ] ],
+    [ "esp:D25", "encoder1:CLK", "green", [ "h-10.83", "v-3.49" ] ],
+    [ "encoder1:VCC", "esp:D27", "red", [ "h16.02", "v17.97" ] ],
+    [ "esp:D15", "servo1:PWM", "green", [ "h66.2", "v13.05" ] ],
+    [ "servo1:V+", "esp:3V3", "red", [ "h-19.57", "v0.75", "h-44.24", "v-17.71" ] ],
+    [ "servo1:GND", "esp:GND.1", "black", [ "h-47.81", "v11.11" ] ],
+    [ "ultrasonic1:VCC", "esp:3V3", "red", [ "v0" ] ],
+    [ "ultrasonic1:GND", "esp:GND.1", "black", [ "v0" ] ],
+    [ "ultrasonic1:TRIG", "esp:D4", "green", [ "v0" ] ],
+    [ "ultrasonic1:ECHO", "esp:D5", "green", [ "v0" ] ],
+    [ "lcd1:GND", "rtc1:GND", "black", [ "h-15.12", "v-43.73", "h-80.13", "v-0.43", "h-99.73" ] ],
+    [ "lcd1:VCC", "rtc1:5V", "red", [ "h-26.02", "v-45.05", "h-183.27", "v47.75" ] ],
+    [ "lcd1:SDA", "rtc1:SDA", "green", [ "h-36.31", "v-46.38", "h-183.19", "v49.08" ] ],
+    [ "lcd1:SCL", "rtc1:SCL", "green", [ "h-47.11", "v-48.38", "h-180.57", "v51.08" ] ]
+  ]
+}
