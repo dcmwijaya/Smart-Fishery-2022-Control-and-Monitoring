@@ -227,7 +227,7 @@ void Indikator() {
     Serial.println("Suhu air pada kolam saat ini : " + String(temp) + "°C\nStatus Suhu Air: " + String(statusSuhu) + "\nWaktu saat ini : " + String(waktu) + "\n");
     digitalWrite(DANGER_INDICATOR_PIN, HIGH);
   } else {
-    statusKekeruhan = "Sangat Tidak Aman";
+    statusSuhu = "Sangat Tidak Aman";
     Serial.println("Suhu air pada kolam saat ini : " + String(temp) + "°C\nStatus Suhu Air: " + String(statusSuhu) + "\nWaktu saat ini : " + String(waktu) + "\n");
     digitalWrite(DANGER_INDICATOR_PIN, HIGH);
   }
