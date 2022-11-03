@@ -5,7 +5,7 @@
 ![Bot-IoT](https://img.shields.io/badge/Based-IoT-%2DCTBot-light.svg?style=flat&color=008B8B)
 
 # Simulation-Wokwi-ThingsBoard-Smart-Fishery-With-Bot-Telegram
-Hasil Simulasi Project Team IoT4-12 DTS PROA KOMINFO 2022
+Hasil Simulasi Project Team IoT4-12 DTS PROA KOMINFO x INDOBOT Batch 4 Tahun 2022
 
 <br>
 
