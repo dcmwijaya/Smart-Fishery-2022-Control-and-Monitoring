@@ -13,7 +13,7 @@ Hasil Simulasi Project Team IoT4-12 DTS PROA KOMINFO x INDOBOT Batch 4 Tahun 202
 | Jenis Penggunaan | Keterangan |
 | --- | --- |
 | MCU | ESP32 |
-| Protocol | MQTT & API |
+| Protocol | MQTT & HTTP |
 | Application | Dashboard TB & Bot TG |
 | Platform | Wokwi, ThingsBoard, Telegram |
 
