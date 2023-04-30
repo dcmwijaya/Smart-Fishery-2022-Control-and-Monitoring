@@ -34,10 +34,24 @@ Catatan : Project ini membutuhkan internet dan suplai listrik untuk menjalankan 
 <br/><br/><br/>
 
 ## LISENSI
-MIT License - Copyright (c) 2023 - Devan C. M. Wijaya, S.Kom
+Copyright (c) 2023 - Devan C. M. Wijaya, S.Kom.
 
 Izin dengan ini diberikan tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk ditangani tanpa adanya batasan, termasuk tanpa batasan hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak, dan untuk mengizinkan orang yang menerima Perangkat Lunak tersebut diperlengkapi untuk itu dengan syarat-syarat sebagai berikut:
 
-Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan semua salinannya atau bagian substansial dari Perangkat Lunak.
+1. Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan semua salinannya atau bagian substansial dari Perangkat Lunak.
 
-DALAM HAL APAPUN, PENULIS ATAU PEMEGANG HAK CIPTA DISINI MEMILIKI HAK KEPEMILIKAN PENUH. PERANGKAT LUNAK INI DISEDIAKAN SEBAGAIMANA ADANYA, TANPA ADA JAMINAN APAPUN, BAIK TERSURAT MAUPUN TERSIRAT, OLEH KARENA ITU APABILA DITEMUI KERUSAKAN, KERUGIAN, ATAU LAINNYA YANG DITIMBULKAN DARI PENGGUNAAN ATAU URUSAN LAIN DALAM PERANGKAT LUNAK INI, MAKA PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERHAK BERTANGGUNGJAWAB, SEBAB DARI AWAL PENGGUNAAN PERANGKAT LUNAK INI TIDAK DIPAKSAKAN SAMA SEKALI, JADI RESIKO DITANGGUNG SENDIRI.
+2. Jika kreasi produk ini dirasa bermanfaat bagi anda mohon dukungannya dengan cara menekan tombol "Star", dan jika anda ingin mengembangkan produk ini lebih lanjut, maka silahkan anda dapat menekan tombol "Fork". Mohon dapatnya hargai PENULIS ATAU PEMEGANG HAK CIPTA dengan tidak melakukan re-upload.
+
+3. PENULIS ATAU PEMEGANG HAK CIPTA DISINI MEMILIKI HAK KEPEMILIKAN PENUH ATAS KREASI PRODUK YANG DIBUAT, KECUALI YANG TERTERA DI DAFTAR PUSTAKA DAN ATAU KARYA PIHAK LAIN YANG DILUAR KREASI PRODUK INI. APABILA DITEMUI KERUSAKAN, KERUGIAN, ATAU LAINNYA YANG DITIMBULKAN DARI PENGGUNAAN PERANGKAT LUNAK INI, MAKA PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERHAK BERTANGGUNGJAWAB, SEBAB PERANGKAT LUNAK INI TELAH DISEDIAKAN SEBAGAIMANA ADANYA, TANPA ADA JAMINAN APAPUN BAIK TERSURAT MAUPUN TERSIRAT, DAN TANPA ADANYA PAKSAKAN SEKALI PUN.
+
+<br/>
+Atas perhatian dan kerjasamanya, saya selaku PENULIS/PEMEGANG HAK CIPTA disini mengucapkan TERIMA KASIH.
+<br/>
+<br/>
+
+Salam Hormat,
+<br/>
+<br/>
+<br/>
+<br/>
+Devan C. M. Wijaya, S.Kom.
