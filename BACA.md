@@ -19,7 +19,7 @@ Hasil simulasi Tim Proyek IoT4-12 DTS PROA KOMINFO x INDOBOT Batch 4 Tahun 2022 
 
 <br/>
 
-## Anggota Kelompok & Jobdesk
+## Anggota Kelompok & Deskripsi Pekerjaan
 | Nama Lengkap | Penugasan Sebagai |
 | --- | --- |
 | Teguh Pratama Nugraha | Pemimpin Proyek & Pemrogram |
