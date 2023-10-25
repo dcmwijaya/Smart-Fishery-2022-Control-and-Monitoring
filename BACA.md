@@ -19,14 +19,14 @@ Hasil simulasi Tim Proyek IoT4-12 DTS PROA KOMINFO x INDOBOT Batch 4 Tahun 2022 
 
 <br/>
 
-## Anggota Kelompok & Deskripsi Pekerjaan
+## Anggota Kelompok & Peran
 | Nama Lengkap | Penugasan Sebagai |
 | --- | --- |
-| Teguh Pratama Nugraha | Pemimpin Proyek & Pemrogram |
-| Octavianus Elricht Waters Modami | Manajer Proyek |
-| Devan Cakra Mudra Wijaya | Pemrogram |
-| Hariansyah | Dukungan IoT |
-| Rohmat Fajar Agustian | Dukungan IoT |
+| Teguh Pratama Nugraha | IoT Project Leader |
+| Octavianus Elricht Waters Modami | IoT Project Manager |
+| Devan Cakra Mudra Wijaya | IoT Software Engineer |
+| Hariansyah | IoT Fullstack Engineer |
+| Rohmat Fajar Agustian | IoT Fullstack Engineer |
 
 <br/>
 
