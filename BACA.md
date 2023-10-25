@@ -9,8 +9,8 @@ Hasil simulasi Tim Proyek IoT4-12 DTS PROA KOMINFO x INDOBOT Batch 4 Tahun 2022 
 
 <br/>
 
-## Media Simulasi
-| Jenis Penggunaan | Keterangan |
+## Fitur / Kerangka Kerja / Peralatan
+| Jenis Penggunaan | Deskripsi |
 | --- | --- |
 | MCU | ESP32 |
 | Protocol | MQTT & HTTP |
