@@ -5,7 +5,7 @@
 ![Bot-IoT](https://img.shields.io/badge/Based-IoT-%2DCTBot-light.svg?style=flat&color=008B8B)
 
 # Smart Fishery 2022 (Control and Monitoring)
-Hasil simulasi Tim Proyek IoT4-12 DTS PROA KOMINFO x INDOBOT Batch 4 Tahun 2022 tentang penggunaan Wokwi-ThingsBoard untuk Perikanan Cerdas berbasis Telegram Bot.
+Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan tentang penggunaan Wokwi-ThingsBoard untuk simulasi proyek Perikanan Cerdas berbasis Telegram Bot.
 
 <br/>
 
