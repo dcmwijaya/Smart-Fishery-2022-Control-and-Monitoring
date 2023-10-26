@@ -10,11 +10,11 @@ Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan t
 <br/>
 
 ## Fitur / Kerangka Kerja / Peralatan
-| Jenis Penggunaan | Deskripsi |
+| Media | Deskripsi |
 | --- | --- |
-| MCU | ESP32 |
-| Protocol | MQTT & HTTP |
-| Application | Dashboard TB & Bot TG |
+| Papan Pengembangan | ESP32 |
+| Protokol IoT | MQTT & HTTP |
+| Aplikasi | Dashboard TB & Bot TG |
 | Platform | Wokwi, ThingsBoard, Telegram |
 
 <br/>
