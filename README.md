@@ -10,10 +10,10 @@ This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes t
 <br/>
 
 ## Features / Framework / Tools
-| Usage Type | Description |
+| Media | Description |
 | --- | --- |
-| MCU | ESP32 |
-| Protocol | MQTT & HTTP |
+| Board Development | ESP32 |
+| IoT Protocol | MQTT & HTTP |
 | Application | Dashboard TB & Bot TG |
 | Platform | Wokwi, ThingsBoard, Telegram |
 
