@@ -34,7 +34,7 @@ Notes: This project requires internet and electricity supply to run the applicat
 <br/><br/><br/>
 
 ## LICENSE
-MIT LICENSE - Copyright (c) 2023 - Devan C. M. Wijaya, S.Kom
+MIT LICENSE - Copyright (c) 2022 - Devan C. M. Wijaya, S.Kom
 
 Permission is hereby granted without charge to any person obtaining a copy of this software and software-related documentation files to use them without restriction, including but not limited to the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to do so on the following terms:
 
