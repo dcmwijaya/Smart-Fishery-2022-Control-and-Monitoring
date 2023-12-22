@@ -1,8 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Simulation-Wokwi-ThingsBoard-Smart-Fishery-With-Bot-Telegram)
-![DTSPROA-Project](https://img.shields.io/badge/DTS%20PROA%2dProject-light.svg?style=flat&logo=arduino&logoColor=white&color=008B8B)
-![Bot-IoT](https://img.shields.io/badge/Based-IoT-%2DCTBot-light.svg?style=flat&color=008B8B)
+![DTSPROA-Project](https://img.shields.io/badge/Project-Digital%20Talent%20Scholarship%20Professional%20Academy%20-%2D%20KOMINFO-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
 # Smart Fishery 2022 (Control and Monitoring)
 Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan tentang penggunaan Wokwi-ThingsBoard untuk simulasi proyek Perikanan Cerdas berbasis Telegram Bot.
