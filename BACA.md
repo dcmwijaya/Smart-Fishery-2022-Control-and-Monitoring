@@ -8,7 +8,7 @@ Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan t
 
 <br/><br/>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Media | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | ESP32 |
