@@ -9,7 +9,7 @@ Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan t
 <br/><br/>
 
 ## Kebutuhan Proyek
-| Media | Deskripsi |
+| Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | ESP32 |
 | Protokol IoT | MQTT & HTTP |
