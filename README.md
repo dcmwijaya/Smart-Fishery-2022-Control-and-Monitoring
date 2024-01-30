@@ -9,7 +9,7 @@ This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes t
 <br/><br/>
 
 ## Project Requirements
-| Media | Description |
+| Part | Description |
 | --- | --- |
 | Board Development | ESP32 |
 | IoT Protocol | MQTT & HTTP |
