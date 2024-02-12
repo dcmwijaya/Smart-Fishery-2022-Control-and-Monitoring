@@ -13,7 +13,7 @@ This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes t
 | --- | --- |
 | Development Board | DOIT ESP32 DEVKIT V1 |
 | Scheme | Virtual |
-| IoT Protocol | • MQTT<br>• HTTP |
+| IoT Protocol | • MQTT<br>• MTProto |
 | Application Support | • Dashboard ThingsBoard<br>• Telegram Bot |
 | Platform | • Wokwi<br>• ThingsBoard |
 
