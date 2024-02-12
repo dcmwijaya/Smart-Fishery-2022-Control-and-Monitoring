@@ -11,10 +11,11 @@ This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes t
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Development Board | ESP32 |
-| IoT Protocol | MQTT & HTTP |
-| Application | Dashboard TB & Bot TG |
-| Platform | Wokwi, ThingsBoard, Telegram |
+| Development Board | DOIT ESP32 DEVKIT V1 |
+| Scheme | Virtual |
+| IoT Protocol | • MQTT<br>• HTTP |
+| Application Support | • Dashboard ThingsBoard<br>• Telegram Bot |
+| Platform | • Wokwi<br>• ThingsBoard |
 
 <br/><br/>
 
@@ -29,7 +30,7 @@ This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes t
 
 <br/>
 
-Notes: This project requires internet and electricity supply to run the application.
+Notes: ``` This project requires internet and electricity supply to run the application ```.
 
 <br/><br/>
 
