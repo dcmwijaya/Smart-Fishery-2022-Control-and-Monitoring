@@ -11,10 +11,11 @@ Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan t
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Papan Pengembangan | ESP32 |
-| Protokol IoT | MQTT & HTTP |
-| Aplikasi | Dashboard TB & Bot TG |
-| Platform | Wokwi, ThingsBoard, Telegram |
+| Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
+| Skema | Virtual |
+| Protokol IoT | • MQTT<br>• MTProto |
+| Aplikasi | • Dashboard ThingsBoard<br>• Bot Telegram |
+| Platform | • Wokwi<br>• ThingsBoard |
 
 <br/><br/>
 
@@ -29,7 +30,7 @@ Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan t
 
 <br/>
 
-Catatan : Project ini membutuhkan internet dan suplai listrik untuk menjalankan aplikasinya.
+Catatan : ``` Project ini membutuhkan internet dan suplai listrik untuk menjalankan aplikasinya ```.
 
 <br/><br/>
 
