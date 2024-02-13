@@ -13,8 +13,8 @@ Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan t
 | --- | --- |
 | Papan Pengembangan | DOIT ESP32 DEVKIT V1 |
 | Skema | Virtual |
-| Protokol IoT | • MQTT<br>• MTProto |
-| Aplikasi | • Dashboard ThingsBoard<br>• Bot Telegram |
+| Protokol komunikasi | • MQTT<br>• MTProto |
+| Aplikasi | Bot Telegram |
 | Platform | • Wokwi<br>• ThingsBoard |
 
 <br/><br/>
