@@ -6,7 +6,7 @@
 # Smart Fishery 2022 (Control and Monitoring)
 This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes the use of Wokwi-ThingsBoard for the simulation of the Telegram Bot-based Smart Fisheries project.
 
-<br/><br/>
+<br><br>
 
 ## Project Requirements
 | Part | Description |
@@ -17,7 +17,7 @@ This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes t
 | Application Support | Telegram Bot |
 | Platform | • Wokwi<br>• ThingsBoard |
 
-<br/><br/>
+<br><br>
 
 ## Group Members & Roles
 | Full Name | Assignment As |
@@ -28,16 +28,21 @@ This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes t
 | Hariansyah | IoT Fullstack Engineer |
 | Rohmat Fajar Agustian | IoT Fullstack Engineer |
 
-<br/>
+<br>
 
 Notes: ``` This project requires internet and electricity supply to run the application ```.
 
-<br/><br/>
+<br><br>
+
+## Appreciation
+If you find this work useful, please support this work as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
+
+<br><br>
 
 ## Disclaimer
 This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
 
-<br/><br/>
+<br><br>
 
 ## LICENSE
 MIT LICENSE - Copyright © 2022 - Devan C. M. Wijaya, S.Kom
