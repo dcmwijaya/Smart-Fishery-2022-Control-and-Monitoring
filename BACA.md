@@ -6,7 +6,7 @@
 # Smart Fishery 2022 (Control and Monitoring)
 Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan tentang penggunaan Wokwi-ThingsBoard untuk simulasi proyek Perikanan Cerdas berbasis Telegram Bot.
 
-<br/><br/>
+<br><br>
 
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
@@ -17,7 +17,7 @@ Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan t
 | Dukungan Aplikasi | Bot Telegram |
 | Platform | • Wokwi<br>• ThingsBoard |
 
-<br/><br/>
+<br><br>
 
 ## Anggota Kelompok & Peran
 | Nama Lengkap | Penugasan Sebagai |
@@ -28,7 +28,7 @@ Tugas kelompok C IOT4-12 DTS PROA KOMINFO x INDOBOT Tahun 2022 ini menjelaskan t
 | Hariansyah | IoT Fullstack Engineer |
 | Rohmat Fajar Agustian | IoT Fullstack Engineer |
 
-<br/>
+<br>
 
 Catatan : ``` Project ini membutuhkan internet dan suplai listrik untuk menjalankan aplikasinya ```.
 
@@ -42,7 +42,7 @@ Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresi
 ## Penafian
 Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
 
-<br/><br/>
+<br><br>
 
 ## LISENSI
 LISENSI MIT - Hak Cipta © 2022 - Devan C. M. Wijaya, S.Kom
