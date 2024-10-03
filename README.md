@@ -55,12 +55,12 @@ If this work is useful to you, then support this work as a form of appreciation 
 <br><br>
 
 ## Disclaimer
-This application is my own work and is not the result of plagiarism from other people's research or work, except those related to third party services which include: libraries, frameworks, and so on.
+This application is the result of my work with my team and is not the result of plagiarism from other people's research or work, except those related to third party services which include: libraries, frameworks, and so on.
 
 <br><br>
 
 ## LICENSE
-MIT LICENSE - Copyright © 2022 - Devan C. M. Wijaya, S.Kom
+MIT LICENSE - Copyright © 2022 - Devan C. M. Wijaya, S.Kom et al
 
 Permission is hereby granted without charge to any person obtaining a copy of this software and software-related documentation files to use them without restriction, including but not limited to the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to do so on the following terms:
 
