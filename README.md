@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Simulation-Wokwi-ThingsBoard-Smart-Fishery-With-Bot-Telegram)
-![DTSPROA-Project](https://img.shields.io/badge/Project-Digital%20Talent%20Scholarship%20Professional%20Academy%20-%2D%20KOMINFO-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Simulation-Wokwi-ThingsBoard-Smart-Fishery-With-Bot-Telegram?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-ESP32-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Apprenticeship-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Smart Fishery 2022 (Control and Monitoring)
 This group assignment C IOT4-12 DTS PROA KOMINFO x INDOBOT Year 2022 describes the use of Wokwi-ThingsBoard for the simulation of the Telegram Bot-based Smart Fisheries project.
@@ -34,13 +35,27 @@ Notes: ``` This project requires internet and electricity supply to run the appl
 
 <br><br>
 
+## Highlights
+<table>
+<tr>
+<th width="420">Dashboard View</th>
+<th width="420">Telegram Bot View</th>
+</tr>
+<tr>
+<td><img src="Assets/Documentation/Experiment/Thingsboard Dashboard.jpg" alt="dashboard-iot"></td>
+<td><img src="Assets/Documentation/Experiment/Bot Telegram.jpg" alt="bot-telegram"></td>
+</tr>
+</table>
+
+<br><br>
+
 ## Appreciation
 If this work is useful to you, then support this work as a form of appreciation to the author by clicking the ``` ⭐Star ``` button at the top of the repository.
 
 <br><br>
 
 ## Disclaimer
-This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+This application is my own work and is not the result of plagiarism from other people's research or work, except those related to third party services which include: libraries, frameworks, and so on.
 
 <br><br>
 
